@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        devs = "seniorDevs"
+        devs = "dev-server"
     }
 
     // stages {
